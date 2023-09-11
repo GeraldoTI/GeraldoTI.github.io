@@ -1,2 +1,1 @@
-# 
 # GeraldoTI.github.io
